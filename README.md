@@ -105,7 +105,7 @@
 ## 💳 Payment Integration
 
 - Supports multiple payment methods:
-  - **Cash Payment**
+  - **Cash Payment
   - **Razorpay Integration**
 - Ensures a secure and smooth payment experience for users.
 
